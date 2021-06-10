@@ -1,20 +1,19 @@
-# Discord.js Lavalink Music Bot using erela.js
+# Discord.js Lavalink Music Bot using erela.js by Van.sh07
 
-[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.eu) if u want to support me, then please [invite](https://lava.milrato.eu) him!**
+[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Artemis] if u want to support me, then please [invite](https://discord.com/oauth2/authorize?client_id=852597421161709608&scope=bot&permissions=8) him!**
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.com/invite/wxFdPVSHQV)
 
-**IF YOU WANNA USE CUSTOM EMOJIS, AND SHARD THEN CHECK OUT THE CUSTOM-EMOJIS TAB(branch)!**
 
 ## Installation | How to use the Bot
 
  **1.** Install [node.js v12+](https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode) or higher
 
- **2.** Download this repo and unzip it    |    or git clone it
+ **2.** Clone em Fork em Import them Git Bash them...do whatever you wish...just his the fork button :D
 
  **3.** Install all of the packages with **`npm install`**     |  the important packages are   **`npm install discord.js erela.js`**
 
- **4** Fill in the parameters, RIGHT in `botconfig/config.json`!
+ **4** Fill in the parameters, RIGHT in config.json! :D
 
  **5.** [Download Lavalink](https://cdn.discordapp.com/attachments/798196676405755905/827174915714711572/Lavalink.jar) and download Java 15 (Java 13 recommended)
 
@@ -29,12 +28,9 @@
 *If you are having errors/problems with starting delete the package.json file and do, before you install the packages `npm init`*
 
 
-# THIS IS HOW IT SHOULD LOOK LIKE!
 
-![](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js/blob/main/Folder_structure.png)
 
-# SHORT OVERVIEW TUTORIAL!
-[![](http://img.youtube.com/vi/_skTgDBMd44/0.jpg)](https://youtu.be/Fp4QXZbKZYM "")
+
 
 ## Windows start Command .bat file
 ```bat
@@ -58,14 +54,11 @@ Which starts Lavalink and the Bot together via one click ;)
 
 Have it in the Same folder as `index.js` and `Lavalink.jar`
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
+# SUPPORT ME AND VD DEVELOPMENT
 
 You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
-
+ 
+ [Poseidon](https://discord.com/oauth2/authorize?client_id=850252921912164382&scope=bot&permissions=8)
 ## Sponsors
 
 ### BEST HOSTING | Bittmax.de
@@ -78,10 +71,10 @@ Bittmax is our first and probably most important sponsor!
 > Cheap and fast Domains
 > WEBHOSTING
 > DISCORD, TEAMSPEAK, Setups / Music Bots
-> GAME SERVER, Rust, Gary's Mod, ..
+> GAME SERVER, Rust, Gary's Mod..
 
 **Discord Server:**
-[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
+[https://discord.gg/GgjJZCyYKD](https://discord.com/invite/wxFdPVSHQV)
 
 **Website:**
 [https://bittmax.de/](https://bittmax.de/])
@@ -93,16 +86,5 @@ Code: **`x10`**
 MC-Host24.de is selling the Best Digital Hosting Services ever!
 Like For games..
 
-**What they are offering:**
-> Quality LXC & KVM (Root) Server
-> WORLDS BEST Minecraft Hosting,
-> Cheap and fast Domains
-> WEBHOSTING
-> DISCORD, TEAMSPEAK, Setups / Music Bots
-> GAME SERVER, Rust, Gary's Mod, ..
 
-**Discord Server:**
-[https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
 
-**Website:**
-[mc-host24.de](https://mc-host24.de/user/affiliate/3121])
