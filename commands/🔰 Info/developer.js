@@ -17,18 +17,18 @@ module.exports = {
 				.setFooter(ee.footertext + " | Sponsor: Bittmax.de | Code  'x10'  == -5%", ee.footericon)
 				.setTimestamp()
 				.setThumbnail("https://cdn.discordapp.com/avatars/442355791412854784/df7b527a701d9a1ab6d73213576fe295.webp?size=1024")
-				.setTitle("Tomato#6966 | Dev of 3 Orgs | Developer of 200+ BOTS")
+				.setTitle("Van.sh07 | Dev of 3 Orgs | Developer of Poseidon and many other reknowned BOTS")
 				.setURL("https://milrato.eu")
 				.setDescription(`
 > Hello I am **Tomato** <@442355791412854784> *(\`Tomato#6966\`)*, and i made more then 200 different Discord Bots: [My Bot List](https://bots.musicium.eu)
 
-> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**LAVA MUSIC** | \`2021\'s Best Music Bot\`](https://lava.milrato.eu) <@742672021422342165>
+> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**ARTEMIS AND POSEIDON** | \`2021\'s Best Music AND MULTI FUNCTION BOT\`](https://artemis.glitch.me) <@842123613905485855>
 
-> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://milrato)
+> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://https://discord.com/invite/wxFdPVSHQV)
 
-> I am also a **Website** Developer and **Plugin** dev. I made **Modules** like a **SPEECH Module** [SEE IT](https://cdn.discordapp.com/attachments/778714123785076768/801606374105546782/2021-01-21_01-15-50.mp4)
+> I am also a **Website** Developer and **Plugin** dev. I made **Modules** Check out my websites: https://solarofficial.glitch.me https://www.vdmusic.ml https://www.vdbot.ml and many mode :D)
 
-> Yeah i hope you like my stuff :v: <3`)
+> Yeah i hope you like my stuff :v: <3 Ty :D`)
 			).catch(error => console.log(error));
 		} catch (e) {
 			console.log(String(e.stack).bgRed)

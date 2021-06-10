@@ -13,7 +13,7 @@ module.exports = {
 	usage: "support",
 	description: "Sends you a Link to the Support Server", 
 	run: async (client, message, args, user, text, prefix) => {
-		message.channel.send("Join **Milrato Development**\n\n*This is the Official Support Server for this Bot*\n\n> **Link: **https://discord.gg/pe3V7uT");
+		message.channel.send("Join **Milrato Development**\n\n*This is the Official Support Server for this Bot*\n\n> **Link: **https://discord.com/invite/wxFdPVSHQV");
 	}
 };
 /**

@@ -22,7 +22,7 @@ module.exports = {
         }
       //these lines creates a string with all djroles
       let leftd = "";
-      if (client.settings.get(message.guild.id, `djroles`).join("") === "") leftd = "no Dj Roles, aka All Users are Djs"
+      if (client.settings.get(message.guild.id, `djroles`).join("") === "") leftd = "no Dj Roles set, hence All Users are Djs"
       else
         for (let i = 0; i < client.settings.get(message.guild.id, `djroles`).length; i++) {
           leftd += "<@&" + client.settings.get(message.guild.id, `djroles`)[i] + "> | "

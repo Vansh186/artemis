@@ -89,7 +89,7 @@ module.exports = {
                       let embed1 = new MessageEmbed()
                         .setColor(ee.color)
                         .setFooter(ee.footertext, ee.footericon)
-                        .setTitle("Lava Music | Request | Guide")
+                        .setTitle("Artemis Music | Request | Guide")
                         .setDescription(`Enter the song name or URL to play a song\n\nYou can also type \`${prefix}command <Parameters>\``)
                         .addField(`Commands`, musiccmds.join(", "))
                         .addField(`Reactions`, `${emoji.msg.rewind} Rewind 20 seconds\n${emoji.msg.forward} Forward 20 seconds\n${emoji.msg.pause_resume} Pause/Resume\n${emoji.msg.stop} Stop Track\n${emoji.msg.previous_track} Play previous\n`, true)
@@ -104,10 +104,10 @@ module.exports = {
                         .setColor(ee.color)
                         .setFooter(ee.footertext, ee.footericon)
                         .setTitle("Lava Music | Currently no song is playing!")
-                        .setDescription(`Join a voice channel and enter a song name or url to play.\n[Invite Lava Music](https://lava.milrato.eu) • [Support Server](https://discord.com/invite/wvCp7q88G3)`)
+                        .setDescription(`Join a voice channel and enter a song name or url to play.\n[Invite Artemis(https://) • [Support Server](https://discord.com/invite/wxFdPVSHQV)`)
                         .setImage("https://cdn.discordapp.com/attachments/754700756170440774/812443980293603329/lavamusic.gif")
                       //send a temp message
-                      channel3.send(new MessageEmbed().setColor(ee.color).setDescription("Setting Up..")).then(msg => {
+                      channel3.send(new MessageEmbed().setColor(ee.color).setDescription("Setting Up...")).then(msg => {
                         //react with embed 1
                         msg.edit(embed1)
                         //save it in the database

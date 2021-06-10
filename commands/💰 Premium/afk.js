@@ -9,7 +9,7 @@ const {
 } = require(`../../handlers/functions`);
 module.exports = {
   name: `afk`,
-  aliases: [`twentyfourseven`, `noleave`, `unlimitedtime`, `24/7`],
+  aliases: [`twentyfourseven`, `noleave`, `unlimitedtime`, `24/7`, `247`],
   category: `💰 Premium`,
   description: `Disables leaving channel for The Server / Player | Toggle`,
   usage: `afk [guild/user]`,

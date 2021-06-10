@@ -23,8 +23,7 @@ module.exports = {
 			**Our Sponsor & Recommended & Cheap:**
 			> Main: [BITTMAX.de](https://bittmax.de)
 			>   Code: \`x10\` to get 5% of **forever**
-			**Our 2nd Sponsor & Recommended (especially for game hosting):**
-			> Main: [Mc-host24.de](https://mc-host24.de/user/affiliate/3121)
+			
 
 			**Other Hosting:**
 			> https://www.openshift.com/
@@ -36,8 +35,8 @@ module.exports = {
 			> https://www.time4vps.eu/
 			> http://virmach.com/
 
-			**Why no free hosting?**
-			> Because that makes your Bot slow, and unrelieable and most of the time it doesnt work right...`)
+			**Why You should not use free hosting?**
+			> Because that makes your Bot slow, and unrelieable and there is risk of your private secrets getting leaked easily D:`)
 			);
 		} catch (e) {
 			console.log(String(e.stack).bgRed)
