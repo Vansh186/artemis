@@ -20,11 +20,9 @@ module.exports = {
 				.setTitle("Van.sh07 | Dev of 3 Orgs | Developer of Poseidon and many other reknowned BOTS")
 				.setURL("https://milrato.eu")
 				.setDescription(`
-> Hello I am **Tomato** <@442355791412854784> *(\`Tomato#6966\`)*, and i made more then 200 different Discord Bots: [My Bot List](https://bots.musicium.eu)
+> Hello I am **Vansh :D** <@842123613905485855> *(\`Van.sh07🥀#1063\`)*, and i made more then 200 different Discord Bots: [My Bot List](https://bots.musicium.eu)
 
-> I am very proud for all of my verified and not verified Discord Bots, but the Bot I am the most proud of is: [**ARTEMIS AND POSEIDON** | \`2021\'s Best Music AND MULTI FUNCTION BOT\`](https://artemis.glitch.me) <@842123613905485855>
-
-> I made this Bot, and you can get a free Bot too! Just go to: [My Service](https://https://discord.com/invite/wxFdPVSHQV)
+> I am very proud for all of my Discord bots and other projects whether they are verified or not :), but the Bot I am the most proud of is: [**ARTEMIS AND POSEIDON** | \`2021\'s Best Music AND MULTI FUNCTION BOT\`](https://artemis.glitch.me) <@842123613905485855>
 
 > I am also a **Website** Developer and **Plugin** dev. I made **Modules** Check out my websites: https://solarofficial.glitch.me https://www.vdmusic.ml https://www.vdbot.ml and many mode :D)
 

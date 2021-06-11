@@ -39,7 +39,7 @@ module.exports = {
         } catch {}
       }
       //create a new Cateogry
-      message.guild.channels.create("Lava Music - Requests", {
+      message.guild.channels.create("Artemis Music - Requests", {
           type: 'category',
           permissionOverwrites: [{
             id: message.guild.id,
@@ -57,7 +57,7 @@ module.exports = {
             if (boosts >= 15) maxbitrate = 256000;
             if (boosts >= 30) maxbitrate = 384000;
 
-            message.guild.channels.create(`🎧｜Music`, {
+            message.guild.channels.create(`🎧 | Artemis`, {
                 type: 'voice', //voice Channel
                 bitrate: maxbitrate, //set the bitrate to the maximum possible
                 userLimit: 10, //set the limit for voice users
@@ -72,7 +72,7 @@ module.exports = {
                   message.guild.channels.create(`🎵｜requests`, {
                       type: 'text', // text channel
                       rateLimitPerUser: 6, //set chat delay
-                      topic: `To request a Track, simply Type the **SONG NAME** into the Channel or the **URL** and the Bot will play it! Make sure that you are in the **right** Voice Channel (🎧｜Music)!\n\nhttps://lava.milrato.eu by: Tomato#6966`,
+                      topic: `To request a Track, simply Type the **SONG NAME** into the Channel or the **URL** and the Bot will play it! Make sure that you are in the **right** Voice Channel (🎧｜Artemis)!\n\n by: Tomato#6966`,
                       parent: channel1.id,
                       permissionOverwrites: [{
                           id: message.guild.id,
@@ -98,14 +98,14 @@ module.exports = {
                       let embed2 = new MessageEmbed()
                         .setColor(ee.color)
                         .setFooter(ee.footertext, ee.footericon)
-                        .setTitle("Lava Music | Music Queue")
+                        .setTitle("Artemis Music | Music Queue")
                         .setDescription(`Empty\nJoin a voice channel and queue songs by name or url in here.`)
                       let embed3 = new MessageEmbed()
                         .setColor(ee.color)
                         .setFooter(ee.footertext, ee.footericon)
-                        .setTitle("Lava Music | Currently no song is playing!")
+                        .setTitle("Artemis Music | Currently no song is playing!")
                         .setDescription(`Join a voice channel and enter a song name or url to play.\n[Invite Artemis(https://) • [Support Server](https://discord.com/invite/wxFdPVSHQV)`)
-                        .setImage("https://cdn.discordapp.com/attachments/754700756170440774/812443980293603329/lavamusic.gif")
+                        .setImage("https://images-ext-1.discordapp.net/external/dFk3ul1pe4OLQxIjWKJyWfZ9TsV01HSIAr2SdXKmDkQ/%3Fwidth%3D452%26height%3D452/https/media.discordapp.net/attachments/851647435096195112/852746479609053195/artemism.gif")
                       //send a temp message
                       channel3.send(new MessageEmbed().setColor(ee.color).setDescription("Setting Up...")).then(msg => {
                         //react with embed 1

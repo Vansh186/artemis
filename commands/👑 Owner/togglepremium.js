@@ -26,7 +26,7 @@ module.exports = {
         .setFooter(ee.footertext, ee.footericon)
         .setColor(ee.wrongcolor)
         .setTitle(`${emoji.msg.ERROR}  ERROR | Please add the **TYPE**!`)
-        .setDescription(`Useage: \`${prefix}togglepremium <user/guild> <Userid/Guildid>\``)
+        .setDescription(`Usage: \`${prefix}togglepremium <user/guild> <Userid/Guildid>\``)
       )
     }
     if (!args[1]) {

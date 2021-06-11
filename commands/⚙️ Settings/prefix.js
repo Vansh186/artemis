@@ -6,7 +6,7 @@ const ee = require(`../../botconfig/embed.json`);
 const emoji = require(`../../botconfig/emojis.json`);
 module.exports = {
   name: `prefix`,
-  aliases: [`prefix`],
+  aliases: [`prefix`, `setprefix`],
   category: `⚙️ Settings`,
   description: `Let's you change the Prefix of the BOT`,
   usage: `prefix <NEW PREFIX>`,

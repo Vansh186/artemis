@@ -16,7 +16,7 @@ module.exports = {
       message.channel.send(new MessageEmbed()
         .setColor(ee.color)
         .setFooter(ee.footertext, ee.footericon)
-        .setTitle(`${emoji.msg.ping} Pinging....`)
+        .setTitle(`${emoji.msg.ping} Pinging...<a:ping:850375567169159208>`)
       ).then(msg => {
         msg.edit(new MessageEmbed()
           .setColor(ee.color)

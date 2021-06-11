@@ -110,6 +110,7 @@ ${userperms == true ? `\n⚙️ **==>** To see the **Setting** Commands
 
 🚫  **==>** To see the **Administration** Commands` : ""}
 `)
+.setImage('https://images-ext-1.discordapp.net/external/dFk3ul1pe4OLQxIjWKJyWfZ9TsV01HSIAr2SdXKmDkQ/%3Fwidth%3D452%26height%3D452/https/media.discordapp.net/attachments/851647435096195112/852746479609053195/artemism.gif')
           
 
         sendBaseEmbed();

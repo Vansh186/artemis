@@ -6,7 +6,7 @@ const ee = require(`../../botconfig/embed.json`);
 const emoji = require(`../../botconfig/emojis.json`);
 module.exports = {
   name: `reset`,
-  aliases: [`hardreset`],
+  aliases: [`hardreset`, `resetsettings`],
   category: `⚙️ Settings`,
   description: `Resets / Deletes all of the Setups as well as the prefix!`,
   usage: `reset`,
